@@ -2,12 +2,6 @@
 <p align="center">
   <img src="github-banner.png" width="100%" alt="Krishna Kumar R - Software Engineering, AI/ML and Cloud">
 </p>
-
-B.Tech Information Technology | SRM IST, Tiruchirappalli
-
-Building practical software solutions through programming,
-backend development, and AI-driven applications.
-
 <br/>
 
 <a href="https://www.linkedin.com/in/krishna-kumar-ramesh/">
