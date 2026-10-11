@@ -11,10 +11,10 @@ backend development, and AI-driven applications.
 
 <br/>
 
-<a href="[https://www.linkedin.com/in/krishna-kumar-ramesh/]">
+<a href="https://www.linkedin.com/in/krishna-kumar-ramesh/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
-<a href="[https://krishnakumarportfoliopage.netlify.app/]">
+<a href="https://krishnakumarportfoliopage.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 <a href="mailto:krixhhh12@gmail.com">
