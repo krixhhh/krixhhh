@@ -6,16 +6,6 @@
 
 <div align="center">
 
-# KRISHNA KUMAR R
-
-### Software Engineer | Python • Java • AI/ML • Cloud
-
-B.Tech Information Technology | SRM IST, Tiruchirappalli
-
-Building practical software solutions through programming,
-backend development, and AI-driven applications.
-
-
 <a href="https://www.linkedin.com/in/krishna-kumar-ramesh/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
