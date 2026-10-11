@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="github-banner.png" width="100%" alt="Krishna Kumar R - Software Engineering, AI/ML and Cloud">
+</p>
+
 <div align="center">
 
 # KRISHNA KUMAR R
