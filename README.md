@@ -3,8 +3,6 @@
   <img src="github-banner.png" width="100%" alt="Krishna Kumar R - Software Engineering, AI/ML and Cloud">
 </p>
 
-### Software Engineer | Python • Java • AI/ML • Cloud
-
 B.Tech Information Technology | SRM IST, Tiruchirappalli
 
 Building practical software solutions through programming,
