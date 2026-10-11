@@ -1,47 +1,125 @@
-# Hi, I'm Krishna Kumar R
+<div align="center">
 
-### B.Tech Information Technology | Software Development | AI/ML
+# KRISHNA KUMAR R
 
-I'm an Information Technology student at SRM Institute of
-Science and Technology, Tiruchirappalli, graduating in 2027.
+### Software Engineer | Python • Java • AI/ML • Cloud
 
-I enjoy building software applications, backend APIs, and
-projects involving Python, AI/ML, and web technologies.
+B.Tech Information Technology | SRM IST, Tiruchirappalli
+
+Building practical software solutions through programming,
+backend development, and AI-driven applications.
+
+<br/>
+
+<a href="[https://www.linkedin.com/in/krishna-kumar-ramesh/]">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="[https://krishnakumarportfoliopage.netlify.app/]">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+<a href="mailto:krixhhh12@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## About Me
+
+I'm a B.Tech Information Technology student at SRM Institute
+of Science and Technology, graduating in 2027.
+
+My interests include software engineering, backend development,
+Python programming, artificial intelligence, and cloud computing.
+
+I enjoy solving programming problems, developing practical
+applications, and improving my technical skills through projects.
+
+- 🎓 B.Tech Information Technology — 2027
+- 💻 Interested in Software Engineering and Backend Development
+- 🤖 Exploring AI/ML and Generative AI
+- ☁️ Learning Cloud Technologies
+- 🧩 Practising Data Structures and Algorithms
+- 🚀 Focused on building useful, maintainable applications
+
+---
 
 ## Technical Skills
 
-- Languages: Java, Python, JavaScript, SQL
-- Web: HTML, CSS, JavaScript
-- Backend: REST APIs, JSON, Flask
-- Database: MySQL
-- Tools: Git, GitHub, VS Code
-- Interests: AI/ML, Backend Development, Cloud Computing
+| Category | Technologies |
+|---|---|
+| Programming | Java, Python, JavaScript, SQL |
+| Web Development | HTML, CSS, JavaScript |
+| Backend | REST APIs, JSON, Flask |
+| Database | MySQL |
+| AI & Data | Machine Learning, NLP, Data Preprocessing |
+| Tools | Git, GitHub, VS Code |
+| Core Concepts | OOP, DSA, Debugging, Problem Solving |
+
+---
 
 ## Featured Projects
 
-### Smart Parking System
-An IoT and computer vision-based project for parking-slot
-detection and real-time availability monitoring.
+### 01. [BFHL Hierarchy Processing API](https://github.com/krixhhh/bfhl-project-)
 
-### GARDIO – AI Outfit Recommendation
-A digital wardrobe application with clothing uploads,
-weather-based recommendations, and AI-assisted outfit matching.
+A REST API that processes hierarchical JSON data and generates
+structured responses.
 
-### BFHL Hierarchy Processing API
-A REST API for hierarchical JSON processing, input validation,
-and structured response generation.
+### 02. [GARDIO — AI Outfit Recommendation](https://github.com/krixhhh/GARDO)
 
-### AI Mental Health Detection
-A machine-learning project focused on data preprocessing,
-feature extraction, and identifying risk patterns.
+A digital wardrobe application with personalized outfit recommendations.
 
-## Education
+### 03. [Client Project Dashboard](https://github.com/krixhhh/client-project-dashboard)
 
-B.Tech Information Technology  
-SRM Institute of Science and Technology, Tiruchirappalli  
-2023–2027
+A real-time internal SaaS dashboard designed for software development agencies. Built with React, Node.js, Express, TypeScript, Prisma ORM, PostgreSQL, Socket.IO, Redis, and BullMQ.
 
-## Connect With Me
+### 04. [Smart Parking System](https://github.com/krixhhh/smart-parking-system-iot-cv)
 
-- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/krishna-kumar-ramesh/)
-- Portfolio: [My Portfolio](https://krishnakumarportfoliopage.netlify.app/)
+An IoT and computer vision-based parking monitoring system.
+
+---
+
+## Experience
+
+**Full Stack Web Development Intern**  
+8Queens Software Technologies Pvt. Ltd.
+
+**Backend Development Intern**  
+VDart
+
+Worked on web development, REST APIs, JSON processing,
+application debugging, and backend application logic.
+
+---
+
+## Certifications
+
+- Microsoft Azure Fundamentals — Infosys Springboard
+- Artificial Intelligence Fundamentals — IBM SkillsBuild
+- Generative AI for All — Infosys Springboard
+- Natural Language Processing — Infosys Springboard
+- Programming with JavaScript — Meta / Coursera
+- Programming for Everybody (Python) — University of Michigan
+- Full Stack Web Development Internship — 8Queens
+- Backend Development Internship Training — VDart
+
+---
+
+## Current Focus
+
+- Strengthening Data Structures and Algorithms
+- Building reliable backend applications
+- Improving Python and Java programming
+- Exploring AI/ML applications
+- Learning cloud computing fundamentals
+
+---
+
+<div align="center">
+
+### Learn. Build. Improve.
+
+*Focused on continuous learning and practical software development.*
+
+</div>
