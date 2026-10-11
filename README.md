@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Krishna Kumar R Cyber Workspace" width="100%" alt="Krishna Kumar R - Software Engineering, AI/ML and Cloud">
+  <img src="Krishna Kumar R Cyber Workspace.png" width="100%" alt="Krishna Kumar R - Software Engineering, AI/ML and Cloud">
 </p>
 <br/>
 
