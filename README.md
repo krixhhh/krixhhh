@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="github-banner.png" width="100%" alt="Krishna Kumar R - Software Engineering, AI/ML and Cloud">
+  <img src="Krishna Kumar R Cyber Workspace" width="100%" alt="Krishna Kumar R - Software Engineering, AI/ML and Cloud">
 </p>
 <br/>
 
